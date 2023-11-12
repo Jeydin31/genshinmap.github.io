@@ -39,7 +39,7 @@
     "@material-ui/icons": "^4.11.2",
     "@react-leaflet/core": "file:./packages/react-leaflet/packages/core/",
     "@reduxjs/toolkit": "^1.4.0",
-    "axios": "^0.21.0",
+    "axios": "^1.6.0",
     "clipboard-polyfill": "^3.0.1",
     "clsx": "^1.1.1",
     "eslint-plugin-json-files": "^0.8.1",
